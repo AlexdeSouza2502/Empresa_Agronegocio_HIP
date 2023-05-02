@@ -13,3 +13,5 @@ Sinta-se à vontade para contribuir com este projeto enviando pull requests ou c
 
 # Licença
 Este projeto está licenciado sob a Licença MIT. Leia o arquivo LICENSE para obter mais informações.
+
+trabalho feito com o colega e colaborador Gabriel Pala
