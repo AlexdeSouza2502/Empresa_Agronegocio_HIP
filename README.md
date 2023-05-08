@@ -1,4 +1,4 @@
-# Empresa_AgroNegócio_HIP(Herança, Interface Polimorfismo)
+# Empresa AgroNegócio
 
 Este é um projeto de exemplo de um sistema de gerenciamento de estoque para uma empresa agrícola fictícia. O projeto é implementado em Java e inclui classes para produtos, marcas, categorias, clientes e estoques.
 
